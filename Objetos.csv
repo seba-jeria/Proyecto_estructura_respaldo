@@ -1,0 +1,12 @@
+Nombre item,Tipo,Dano_Vida_Armadura,Nivel_o
+Espada de diamante,Equipable,20,4
+Espada de hierro,Equipable,15,3
+Espada de madera,Equipable,10,2
+Palo,Equipable,5,1
+Pan,Consumible,1,1
+Armadura de diamante,Equipable,15,4
+Armadura de hierro,Equipable,10,3
+Armadura de cuero,Equipable,5,2
+Ropa de campesino,Equipable,1,1
+Punos,Equipable,2,1
+Pocion pequena,Consumible,15,2
